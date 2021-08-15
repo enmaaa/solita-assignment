@@ -10,9 +10,11 @@ NodeJS v16.6.2
 
 After cloning, run the following in the root folder:
 
-```cd backend
+```
+cd backend
 npm install
-npm start```
+npm start
+```
 
 After this, the backend runs in `http://localhost:5000/`. You can run tests with `npm test`.
 
@@ -20,8 +22,10 @@ After this, the backend runs in `http://localhost:5000/`. You can run tests with
 
 In the root folder, run the following commands:
 
-```cd frontend
+```
+cd frontend
 npm install
-npm start```
+npm start
+```
 
 Frontend will run in `http://localhost:3000/`.
